@@ -1,0 +1,16 @@
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\bin\Debug\netcoreapp3.1\Tarea_SISD.exe
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\bin\Debug\netcoreapp3.1\Tarea_SISD.deps.json
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\bin\Debug\netcoreapp3.1\Tarea_SISD.runtimeconfig.json
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\bin\Debug\netcoreapp3.1\Tarea_SISD.runtimeconfig.dev.json
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\bin\Debug\netcoreapp3.1\Tarea_SISD.dll
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\bin\Debug\netcoreapp3.1\Tarea_SISD.pdb
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.csproj.AssemblyReference.cache
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.Form1.resources
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.csproj.GenerateResource.cache
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.AssemblyInfoInputs.cache
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.AssemblyInfo.cs
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.csproj.CoreCompileInputs.cache
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.dll
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.pdb
+C:\Users\BlackHopeD\source\repos\Tarea_SISD\Tarea_SISD\obj\Debug\netcoreapp3.1\Tarea_SISD.genruntimeconfig.cache

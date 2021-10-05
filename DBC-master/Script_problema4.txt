@@ -1,0 +1,25 @@
+
+create database problema4;
+
+CREATE  TABLE `problema4`.`clientesa` (
+  `idclientesa` INT NOT NULL AUTO_INCREMENT ,
+  `nombre` VARCHAR(100) NOT NULL ,
+  `contacto` VARCHAR(45) NOT NULL ,
+  `estatura` DOUBLE NOT NULL ,
+PRIMARY KEY (`idclientesa`) );
+
+CREATE  TABLE `problema4`.`clientesb` (
+  `idclientesb` INT NOT NULL AUTO_INCREMENT ,
+  `nombre` VARCHAR(100) NOT NULL ,
+  `contacto` VARCHAR(45) NOT NULL ,
+  `estatura` DOUBLE NOT NULL ,
+  PRIMARY KEY (`idclientesb`) );
+  
+  CREATE  TABLE `problema4`.`clientesc` (
+  `idclientesc` INT NOT NULL AUTO_INCREMENT ,
+  `nombre` VARCHAR(100) NOT NULL ,
+  `contacto` VARCHAR(45) NOT NULL ,
+  `estatura` DOUBLE NOT NULL ,
+PRIMARY KEY (`idclientesc`) );
+
+
